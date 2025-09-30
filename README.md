@@ -63,7 +63,7 @@ Machine Learning project comparing K-means and K-means++ algorithms
 Tech: Python, scikit-learn, K-means/K-means++, Data Analysis
 ✨ Comprehensive analysis on 4 datasets (Iris, Breast Cancer, Wine, Mall Customers) with elbow method and silhouette analysis for optimal cluster determination
 
-## 🤝 Let's Connect!
+## Let's Connect!
 
 - 📧 Email pro : rayan-d@ikmail.com
 - 💼 Looking for: 3-6 month international internship starting from February 2026
