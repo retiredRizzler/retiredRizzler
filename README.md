@@ -58,6 +58,11 @@ Tech: Java 17, JavaFX, SQLite, Tesseract OCR, Apache PDFBox
 Tech: Python, Minimax, Alpha-Beta Pruning, Expectimax, ML  
 ✨ Implementation of rational decision-making agents
 
+### 🧠 K-means Clustering Analysis
+Machine Learning project comparing K-means and K-means++ algorithms
+Tech: Python, scikit-learn, K-means/K-means++, Data Analysis
+✨ Comprehensive analysis on 4 datasets (Iris, Breast Cancer, Wine, Mall Customers) with elbow method and silhouette analysis for optimal cluster determination
+
 ## 🤝 Let's Connect!
 
 - 📧 Email pro : rayan-d@ikmail.com
