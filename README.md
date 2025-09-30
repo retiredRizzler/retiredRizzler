@@ -48,20 +48,21 @@ Currently in my final year of Bachelor's in Computer Science at ESI Brussels, I'
 Tech: Vue.js, PostgreSQL (Supabase), TailwindCSS, PrimeVue  
 ✨ Automated invoicing, dynamic PDF generation, deployed on Vercel
 
-### 📝 [easyEval](https://github.com/retiredRizzler/college-projects/tree/main/EasyEval)
+### 📝 [easyEval](https://github.com/retiredRizzler/easyEval)
 **Exam management system with OCR** for automated grading  
 Tech: Java 17, JavaFX, SQLite, Tesseract OCR, Apache PDFBox  
 ✨ MVVM architecture, multithreading for large-scale corrections
 
-### 🤖 [Pacman MultiAgent](https://github.com/retiredRizzler/college-projects/tree/main/PacmanMultiAgent)
+### 🤖 [Pacman MultiAgent](https://github.com/retiredRizzler/PacmanMultiAgent)
 **AI-powered game agents** using advanced algorithms  
 Tech: Python, Minimax, Alpha-Beta Pruning, Expectimax, ML  
 ✨ Implementation of rational decision-making agents
 
 ### 🧠 K-means Clustering Analysis
 Machine Learning project comparing K-means and K-means++ algorithms
-Tech: Python, scikit-learn, K-means/K-means++, Data Analysis
-✨ Comprehensive analysis on 4 datasets (Iris, Breast Cancer, Wine, Mall Customers) with elbow method and silhouette analysis for optimal cluster determination
+Tech: Python, scikit-learn, K-means/K-means++, Data Analysis 
+✨ Comprehensive analysis on 4 datasets (Iris, Breast Cancer, Wine, Mall Customers) 
+with elbow method and silhouette analysis for optimal cluster determination
 
 ## Let's Connect!
 
