@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm Rayan
+# Welcome
 
 **Computer Science Student | Full-Stack Developer | AI Enthusiast**
 
