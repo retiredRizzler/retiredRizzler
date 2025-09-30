@@ -4,7 +4,7 @@
 
 📍 Brussels, Belgium | 🎓 Final Year @ ESI Brussels | 🌍 Seeking International Internship (Feb 2026+)
 
-I'm passionate about building real-world applications that solve actual problems. From invoice management systems to AI-powered exam grading tools, I love turning ideas into production-ready software.
+Currently in my final year of Bachelor's in Computer Science at ESI Brussels, I'm actively seeking a 3-6 month international internship starting from February 2026 (or later) in application development. My cursus has helped me build strong foundations in multiple programming languages and modern frameworks. Beyond classroom, I've applied these skills to real-world projects, including a production-ready invoices management system and a currently freelance work developing a complete booking platform. Whether it's frontend, backend, full-stack, AI, or others emerging technologies, I'm eager to learn and ready to jump in.
 
 ## What I'm Up To
 
@@ -68,7 +68,3 @@ Tech: Python, scikit-learn, K-means/K-means++, Data Analysis
 - 📧 Email pro : rayan-d@ikmail.com
 - 💼 Looking for: 3-6 month international internship starting from February 2026
 - 🌐 Open to: Frontend, Backend, Full-Stack, DevOps, or AI/ML opportunities
-
----
-
-💡 *"Whether it's frontend, backend, full-stack, AI, or emerging technologies, I'm eager to learn and ready to jump in."*
