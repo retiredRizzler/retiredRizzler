@@ -6,14 +6,14 @@
 
 I'm passionate about building real-world applications that solve actual problems. From invoice management systems to AI-powered exam grading tools, I love turning ideas into production-ready software.
 
-## 🚀 What I'm Up To
+## What I'm Up To
 
 - Currently working on a **booking platform** for [The6Lab](https://www.instagram.com/the6lab.be/) using Nuxt.js
 - Exploring **DevOps** practices with Docker, Terraform, and CI/CD pipelines
 - Building projects that combine **AI/ML** with practical applications
 - Looking for opportunities to learn and contribute to innovative teams
 
-## 🛠️ Tech Stack
+## Skills
 
 **Languages**  
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
@@ -41,7 +41,7 @@ I'm passionate about building real-world applications that solve actual problems
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-## 🎯 Featured Projects
+## Featured Projects
 
 ### 🧾 [CamInvoice](https://caminvoice.vercel.app/)
 **Production-ready invoice management system** for a driving school  
@@ -71,4 +71,4 @@ Tech: Python, scikit-learn, K-means/K-means++, Data Analysis
 
 ---
 
-💡 *"Whether it's frontend, backend, full-stack, or emerging technologies, I'm eager to learn and ready to jump in."*
+💡 *"Whether it's frontend, backend, full-stack, AI, or emerging technologies, I'm eager to learn and ready to jump in."*
