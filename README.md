@@ -8,10 +8,10 @@ I'm passionate about building real-world applications that solve actual problems
 
 ## 🚀 What I'm Up To
 
-- 🔭 Currently working on a **booking platform** for [The6Lab](https://www.instagram.com/the6lab.be/) using Nuxt.js
-- 🌱 Exploring **DevOps** practices with Docker, Terraform, and CI/CD pipelines
-- 💡 Building projects that combine **AI/ML** with practical applications
-- 🎯 Looking for opportunities to learn and contribute to innovative teams
+- Currently working on a **booking platform** for [The6Lab](https://www.instagram.com/the6lab.be/) using Nuxt.js
+- Exploring **DevOps** practices with Docker, Terraform, and CI/CD pipelines
+- Building projects that combine **AI/ML** with practical applications
+- Looking for opportunities to learn and contribute to innovative teams
 
 ## 🛠️ Tech Stack
 
@@ -58,16 +58,10 @@ Tech: Java 17, JavaFX, SQLite, Tesseract OCR, Apache PDFBox
 Tech: Python, Minimax, Alpha-Beta Pruning, Expectimax, ML  
 ✨ Implementation of rational decision-making agents
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=retiredRizzler&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=retiredRizzler&layout=compact&theme=radical)
-
 ## 🤝 Let's Connect!
 
-- 📧 Email: rayan-d@ikmail.com
-- 💼 Looking for: 3-6 month international internship starting February 2026
+- 📧 Email pro : rayan-d@ikmail.com
+- 💼 Looking for: 3-6 month international internship starting from February 2026
 - 🌐 Open to: Frontend, Backend, Full-Stack, DevOps, or AI/ML opportunities
 
 ---
