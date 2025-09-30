@@ -66,6 +66,7 @@ with elbow method and silhouette analysis for optimal cluster determination*
 
 ## Let's Connect!
 
-- 📧 Email pro : rayan-d@ikmail.com
-- 💼 Looking for: 3-6 month international internship starting from February 2026
-- 🌐 Open to: Frontend, Backend, Full-Stack, DevOps, or AI/ML opportunities
+- Email : rayan-d@ikmail.com
+- Linkedin : https://www.linkedin.com/in/rayan-drissi-803750387/ 
+- Looking for: 3-6 month international internship starting from February 2026
+- Open to: Frontend, Backend, Full-Stack, DevOps, or AI/ML opportunities
