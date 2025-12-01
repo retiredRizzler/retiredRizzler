@@ -8,7 +8,7 @@ Currently in my final year of Bachelor's in Computer Science at ESI Brussels, I'
 
 ## What I'm Up To
 
-- Working on a **booking platform** for [The6Lab](https://www.instagram.com/the6lab.be/) using Nuxt.js
+- Working on a **booking platform** for [The6Lab](https://the6lab.be/) using Nuxt.js
 - Exploring **DevOps** practices with Docker, Terraform, and CI/CD pipelines
 - Educate myself on **AI/ML** with practical applications
 - Looking for opportunities to learn and contribute to innovative teams
